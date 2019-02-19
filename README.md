@@ -22,3 +22,11 @@ class    |                   |                   |                   |
 All location values are scaled to the respective dimension (i.e. `centre x` and `width` are scaled to total image width, `centre y` and `height` are scaled to total image height).
 
 A `.names` file is included to go with the class labels.
+
+## Credits
+
+`DIARETDB1` is (c) [Tomi Kauppi et al., 2007](http://www.it.lut.fi/project/imageret/diaretdb1/) and the [ImageRet](http://www.it.lut.fi/project/imageret/) project.
+
+`IDRiD` is (c) [Prasanna Porwal, Samiksha Pachade, Ravi Kamble, Manesh Kokare, Girish Deshmukh, Vivek Sahasrabuddhe and Fabrice Meriaudeau, 2018](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid), and licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+The annotations are (c) [Chris von Csefalvay, 2019](https://chrisvoncsefalvay.com) and subject to the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
