@@ -23,9 +23,13 @@ All location values are scaled to the respective dimension (i.e. `centre x` and 
 
 A `.names` file is included to go with the class labels.
 
+## Using this dataset
+
+I would love to hear from you and learn about the awesome things that you have done with this data set. Please feel free to [drop me a mail](mailto:chris@chrisvoncsefalvay.com) to let me know what you have been up to with the data set!
+
 ## Credits
 
-`DIARETDB1` is (c) [Tomi Kauppi et al., 2007](http://www.it.lut.fi/project/imageret/diaretdb1/) and the [ImageRet](http://www.it.lut.fi/project/imageret/) project.
+`DIARETDB1` is (c) [Tomi Kauppi, Valentina Kalesnykiene, Joni-Kristian Kamarainen, Lasse Lensu, Iiris Sorri, Asta Raninen, Raija Voutilainen, Juhani Pietilä, Heikki Kälviäinen and Hannu Uusitalo, 2007](http://www.it.lut.fi/project/imageret/diaretdb1/) and the [ImageRet](http://www.it.lut.fi/project/imageret/) project.
 
 `IDRiD` is (c) [Prasanna Porwal, Samiksha Pachade, Ravi Kamble, Manesh Kokare, Girish Deshmukh, Vivek Sahasrabuddhe and Fabrice Meriaudeau, 2018](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid), and licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
