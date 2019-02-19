@@ -1,6 +1,6 @@
 # CODRAS: The COnsolidated Diabetic Retinopathy Assessment Set
 
-[![DOI](https://zenodo.org/badge/171529534.svg)](https://zenodo.org/badge/latestdoi/171529534) <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+[![DOI](https://zenodo.org/badge/171529534.svg)](https://zenodo.org/badge/latestdoi/171529534) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/chrisvoncsefalvay/codras/graphs/commit-activity)
 
 Codras contains 605 digital fundoscopy images from two data sets – [DIARETDB1](http://www.it.lut.fi/project/imageret/diaretdb1/) (Kauppi et al. (2007), 89 images) and the [Indian Diabetic Retinopathy Database (IDRiD)](https://idrid.grand-challenge.org) (Porwal et al. (2018), 516 images). Each image has been annotated for three objects:
 
